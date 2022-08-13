@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/boltdb/bolt"
 	"gopkg.in/yaml.v2"
 )
 
